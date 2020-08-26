@@ -1,0 +1,1 @@
+import { UPDATE_INFO } from './constants'
