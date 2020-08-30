@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
-import { Button, DatePicker } from 'antd'
 import './app.css'
 import 'antd/dist/antd.css'
+import AddPosts from '../add-posts'
+import TableForm from '../table'
 
 class App extends Component {
-  
   render() {
     return (
       <>
-        <Button type="primary">PRESS ME</Button>
-        <DatePicker placeholder="select date" />
+        <AddPosts />
+        <TableForm />
       </>
     )
   }
