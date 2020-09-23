@@ -7,10 +7,10 @@ import TableForm from '../table'
 class App extends Component {
   render() {
     return (
-      <>
+      <div className="container">
         <AddPosts />
         <TableForm />
-      </>
+      </div>
     )
   }
 }
