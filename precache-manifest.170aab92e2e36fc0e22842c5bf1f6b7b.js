@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1b99e72f3884f71cca211c619c13cd7",
+    "revision": "e26ca670ba3ac04872b2845de95221c0",
     "url": "/todo-digital/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-digital/static/css/2.847e01e0.chunk.css"
   },
   {
-    "revision": "e2d95ebcd7742b744ef4",
-    "url": "/todo-digital/static/css/main.96a4dd40.chunk.css"
+    "revision": "90995e45541991aa4577",
+    "url": "/todo-digital/static/css/main.f68afb8e.chunk.css"
   },
   {
     "revision": "5a056ad09fe668181fe6",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/todo-digital/static/js/2.2929e683.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2d95ebcd7742b744ef4",
+    "revision": "90995e45541991aa4577",
     "url": "/todo-digital/static/js/main.49a38a9c.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/todo-digital/static/css/main.96a4dd40.chunk.css",
+    "main.css": "/todo-digital/static/css/main.f68afb8e.chunk.css",
     "main.js": "/todo-digital/static/js/main.49a38a9c.chunk.js",
     "main.js.map": "/todo-digital/static/js/main.49a38a9c.chunk.js.map",
     "runtime-main.js": "/todo-digital/static/js/runtime-main.8f57d787.js",
@@ -9,17 +9,17 @@
     "static/js/2.2929e683.chunk.js": "/todo-digital/static/js/2.2929e683.chunk.js",
     "static/js/2.2929e683.chunk.js.map": "/todo-digital/static/js/2.2929e683.chunk.js.map",
     "index.html": "/todo-digital/index.html",
-    "precache-manifest.9fb4423ca9aeb204e30cc05efc8eb41a.js": "/todo-digital/precache-manifest.9fb4423ca9aeb204e30cc05efc8eb41a.js",
+    "precache-manifest.170aab92e2e36fc0e22842c5bf1f6b7b.js": "/todo-digital/precache-manifest.170aab92e2e36fc0e22842c5bf1f6b7b.js",
     "service-worker.js": "/todo-digital/service-worker.js",
     "static/css/2.847e01e0.chunk.css.map": "/todo-digital/static/css/2.847e01e0.chunk.css.map",
-    "static/css/main.96a4dd40.chunk.css.map": "/todo-digital/static/css/main.96a4dd40.chunk.css.map",
+    "static/css/main.f68afb8e.chunk.css.map": "/todo-digital/static/css/main.f68afb8e.chunk.css.map",
     "static/js/2.2929e683.chunk.js.LICENSE.txt": "/todo-digital/static/js/2.2929e683.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f57d787.js",
     "static/css/2.847e01e0.chunk.css",
     "static/js/2.2929e683.chunk.js",
-    "static/css/main.96a4dd40.chunk.css",
+    "static/css/main.f68afb8e.chunk.css",
     "static/js/main.49a38a9c.chunk.js"
   ]
 }
