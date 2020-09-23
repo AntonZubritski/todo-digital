@@ -1,4 +1,5 @@
 {
+  "homepage": "https://antonzubritski.github.io/todo-digital/",
   "name": "todo-digital",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +9,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "antd": "^4.6.1",
+    "gh-pages": "^3.1.0",
     "rc-field-form": "^1.10.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -18,6 +20,8 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
