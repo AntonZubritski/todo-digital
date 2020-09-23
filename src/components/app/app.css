@@ -1,7 +1,7 @@
 @media screen and (max-device-width: 375pt) {
     html body {
         height: 667pt !important;
-        width: 375pt;
+        width: 375pt !important;
     }
     .ant-row {
         width: 375pt;
