@@ -1,0 +1,12 @@
+.ant-table-cell svg {
+    color:#1890ff
+}
+.ant-table-cell svg:hover {
+    color:#105ea7
+}
+.ant-table-cell svg:active {
+    color:#000000
+}
+.ant-table-wrapper {
+    max-width: 90%;
+}
