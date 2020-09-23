@@ -1,2 +1,2 @@
-import ModalForm from './modal'
+import ModalForm from './modal.jsx'
 export default ModalForm

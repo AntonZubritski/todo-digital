@@ -1,3 +1,3 @@
-import AddPosts from './add-posts'
+import AddPosts from './add-posts.jsx'
 
 export default AddPosts

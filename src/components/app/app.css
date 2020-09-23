@@ -1,3 +1,15 @@
+@media screen and (max-device-width: 375pt) {
+    html body {
+        height: 667pt !important;
+        width: 375pt;
+    }
+    .ant-row {
+        width: 375pt;
+    }
+    .container {
+        width: 375pt;
+    }
+}
 *, *::before, *::after {
     box-sizing: inherit;
 }
@@ -12,9 +24,15 @@ body {
 html {
     position: relative;
     min-height: 100vh;
+    width: fit-content;
     padding-bottom: 75px;
 }
-
+.container {
+    width: 100%;
+}
+.ant-row {
+    width: 100%;
+}
 .site-form-in-drawer-wrapper {
     position: absolute;
     right: 0px;
